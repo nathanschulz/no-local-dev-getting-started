@@ -9,3 +9,4 @@ gem 'pg'
 
 # a little console
 gem "tux"
+gem "activerecord-postgres_pub_sub"
